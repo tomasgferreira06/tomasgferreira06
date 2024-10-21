@@ -6,10 +6,15 @@ Hello, I'm Tomás, I’m a Computer Science Engineering student with a passion f
 ⚙️ Technical Skills
 
 Languages: C, C++, C#, JAVA, Kotlin, JavaScript, TypeScript, HTML, CSS
+
 Frameworks: React
+
 Tools: GitLab
+
 Databases: SQLite
+
 Methodologies: Scrum
+
 
 
 💼 Professional Opportunities
