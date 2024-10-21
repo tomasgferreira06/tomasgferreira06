@@ -1,5 +1,6 @@
 ## About Me
 🚀 About Me
+
 Hello, I'm Tomás, I’m a Computer Science Engineering student with a passion for problem-solving and technology innovation. Eager to learn and contribute to innovative projects that make a difference.
 
 ⚙️ Technical Skills
